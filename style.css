@@ -91,6 +91,11 @@ input:focus {
     color: #666;
 }
 
+.progress-step-active {
+    background-color: var(--primary-color);
+    color: #f3f3f3;
+}
+
 
 /* ==== Form ==== */
 
